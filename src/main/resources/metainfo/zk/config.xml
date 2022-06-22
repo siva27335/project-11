@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>lsk</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>lsk.Version</version-class>
+		<version-uid>1.0-SNAPSHOT</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>lsk.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>lsk.</value>
+	</library-property>
+	-->
+</zk>
